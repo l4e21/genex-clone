@@ -26,5 +26,7 @@ See examples in scripts
 ***TODO***
 
 Some unit tests
+
 Multi-population handling
+
 Improved naming + refactoring (I don't like how the book does it)
