@@ -2,30 +2,28 @@
 
 **Workthrough of 'Genetic Algorithms in Elixir'**
 
+Many examples in the book were outdated or improper. Official repo is too complex for the scope of my uses.
+
+
 Options for running:
 
 :population_size
+
 :selection_type
+
 :selection_rate
+
 :crossover_type
+
 :mutation_type
+
 :mutation_rate
+
 :reinsertion_strategy
 
-## Installation
+See examples in scripts
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `genetic` to your list of dependencies in `mix.exs`:
+***TODO***
 
-```elixir
-def deps do
-  [
-    {:genetic, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/genetic>.
-
+Multi-population handling
+Improved naming + refactoring (I don't like how the book does it)
